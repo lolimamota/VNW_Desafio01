@@ -1,20 +1,20 @@
-*{
+* {
     padding-top: 0;
     margin: 0;
     font-family: 'Borel', cursive;
 }
 
-.menu{
+.menu {
     color: rgb(80, 2, 80);
     font-size: 1.5rem;
     display: inline-flex;
 }
 
-.lista{
+.lista {
     font-size: 1.0rem;
     list-style-type: none;
 }
 
-.img{
+.img {
     display: inline-flex;
 }
